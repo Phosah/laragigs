@@ -18,4 +18,7 @@
 
 </div>
 
+<div class="mt-6 py-4">
+    {{$listings->links()}}
+</div>
 @endsection
